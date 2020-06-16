@@ -1,0 +1,4 @@
+go-sqs-bench
+vendor/
+*~
+*.sw[a-z]
